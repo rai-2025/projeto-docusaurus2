@@ -7,7 +7,7 @@ slug: /
 
 # Documento Vazio
 
-_Nenhum conteúdo foi fornecido para processamento._  
+_Nenhum conteúdo foi fornecido para processamento._
 
 ## Histórico
 
