@@ -1,7 +1,7 @@
 ---
 sidebar_label: Tarifários e Disponibilidade - Alertas de Disponibilidade
 title: Tarifários e Disponibilidade - Alertas de Disponibilidade
-description: Guia rápido para configurar e editar alertas de disponibilidade no sistema myhotel da Omnibees.
+description: Guia rápido para configurar e editar alertas de disponibilidade no sistema da Omnibees.
 slug: /guia-myhotel-alertas-de-disponibilidade
 ---
 
@@ -81,4 +81,4 @@ Boas Vendas!!
 
 ## Histórico
 
-- Versão 1.0 - Documento criado e formatado conforme diretrizes de documentação técnica em Markdown.
+- Versão 1.0 - Documento ajustado com correções gramaticais e estruturais conforme diretrizes de documentação técnica.
