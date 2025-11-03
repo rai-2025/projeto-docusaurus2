@@ -1,41 +1,39 @@
 ---
 sidebar_label: Alertas de Disponibilidade
 title: Alertas de Disponibilidade
-description: Guia rápido para configurar e gerenciar alertas de disponibilidade no sistema myhotel da Omnibees.
+description: Guia rápido para configurar e gerenciar alertas de disponibilidade no sistema myhotel Omnibees.
 slug: /guia-myhotel-alertas-de-disponibilidade
 ---
 
 # Alertas de Disponibilidade
 
-## Guia Rápido
-
-%%IMAGE_0%%
-
 ## Neste guia, você vai aprender a configurar e editar alertas de disponibilidade.
 
 ### Como chegar?
 
-O caminho para acessar a aba de 'alertas de disponibilidade' é:
+O caminho para acessar a aba de ‘alertas de disponibilidade’ é:
 
 **Menu de Navegação > Gestão > Tarifários e Disponibilidade > Alertas de Disponibilidade**
 
-%%IMAGE_1%%
+%%IMAGE_0%%
 
 Os **'Alertas de Disponibilidade'** permitem que os hotéis que não têm a conexão de atualização de inventário do PMS (Sistema de Gerenciamento do Hotel) conectada à Omnibees possam controlar a quantidade de quartos disponíveis no myhotel.omnibees com maior facilidade.
 
-Nesta aba, será possível configurar uma **‘notificação’**, na qual o sistema poderá enviar um e-mail ao hotel informando quando o número de quartos disponíveis for menor que a quantidade de quartos informada para gerar a notificação.
+Nesta aba, será possível configurar uma **‘notificação’**, na qual o sistema poderá enviar um e-mail ao hotel _informando quando o número de quartos disponíveis for menor que a quantidade de quartos informada para gerar a notificação._
 
-Além disso, o sistema poderá **'fechar vendas'** quando o número de quartos disponíveis for menor do que a quantidade informada na configuração.
+Além disso, o sistema poderá **'fechar vendas'** _quando o número de quartos disponíveis for menor do que a quantidade informada na configuração._
 
-%%IMAGE_2%%
+%%IMAGE_1%%
 
 ## Configurações
 
 Ao clicar em **‘Adicionar Tipos de Quartos’**, será preciso selecionar os quartos que deseja configurar os ‘alertas de disponibilidade’ e clicar em ‘Ok’:
 
-%%IMAGE_3%%
+%%IMAGE_2%%
 
-Depois, será possível configurar o **‘envio da notificação’** ou de aplicação do **‘fecho de vendas’** para os tipos de quartos selecionados:
+Depois, será possível configurar o _‘envio da notificação’_ ou de aplicação do _‘fecho vendas’_ para os tipos de quartos selecionados:
+
+%%IMAGE_3%%
 
 Para isso, será preciso selecionar a ação desejada e informar o ‘número de quartos disponíveis’:
 
@@ -45,7 +43,7 @@ Para isso, será preciso selecionar a ação desejada e informar o ‘número de
 
 - **‘Fechar vendas quando o número de quartos disponíveis for menor que [ ]’**: o sistema irá aplicar o fecho de vendas para o quarto, quando o ‘número de quartos disponíveis’ for menor do que o informado.
 
-  - **Incluir BE no fecho de vendas**: ao selecionar, além do sistema aplicar o fecho de vendas para o quarto quando o ‘número de quartos disponíveis’ for menor do que o informado, irá aplicar fecho de vendas também para o canal Booking Engine (BE) - BeeDirect Motor de Reservas:
+- **Incluir BE no fecho vendas**: ao selecionar, além do sistema aplicar o fecho de vendas para o quarto quando o ‘número de quartos disponíveis’ for menor do que o informado, irá aplicar fecho de vendas também para o canal Booking Engine (BE) - BeeDirect Motor de Reservas:
 
 %%IMAGE_5%%
 
@@ -65,7 +63,7 @@ Na aba de ‘Mais Opções’, **Configure e-mails e escreva um assunto**:
 
 - **Assunto:** defina qual a mensagem será exibida no título do e-mail; este campo é obrigatório.
 
-O sistema permite clicar em **“Traduzir”** para seguir com as traduções do assunto.
+O sistema exibirá o botão **“Traduzir”** para seguir com as traduções do assunto.
 
 Para acessar o **‘Histórico de Alterações’** das configurações de ‘alertas de disponibilidade’, clique no **botão ‘mais opções’** (sinalizado com três pontos), localizado ao lado dos botões Salvar/Fechar:
 
