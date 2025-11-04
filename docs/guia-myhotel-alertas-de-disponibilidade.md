@@ -1,7 +1,7 @@
 ---
 sidebar_label: Tarifários e Disponibilidade - Alertas de Disponibilidade
 title: Tarifários e Disponibilidade - Alertas de Disponibilidade
-description: Aprenda a configurar e editar alertas de disponibilidade para controle de inventário no sistema Omnibees.
+description: Guia rápido para configurar e editar alertas de disponibilidade no sistema Omnibees.
 slug: /guia-myhotel-alertas-de-disponibilidade
 ---
 
