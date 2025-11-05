@@ -9,8 +9,6 @@ slug: /guia-myhotel-calendario-de-precos
 
 ## GUIA RÁPIDO
 
-![imagem-0](/assets/guia-myhotel-calendario-de-precos/imagem-0.webp)
-
 ## Neste guia, você vai aprender as funcionalidades da aba de calendário de preços.
 
 ### Como chegar?
@@ -24,7 +22,7 @@ Em **‘Calendário de Preços’** será possível consultar os preços, restri
 
 Após selecionar o "tipo de quarto" do tarifário que deseja consultar, é importante que você conheça as opções de **'pesquisa e os filtros'** disponíveis, que podem ajudar a encontrar as informações desejadas de maneira mais rápida. Veja:
 
-![imagem-1](/assets/guia-myhotel-calendario-de-precos/imagem-1.webp)
+![imagem-0](/assets/guia-myhotel-calendario-de-precos/imagem-0.webp)
 
 ## 1. TARIFAS E PACOTE
 
@@ -42,7 +40,7 @@ Será possível ordenar a lista de tarifas e pacotes por:
 - Ordenar de A-Z  
 - Ordenar de Z-A
 
-![imagem-2](/assets/guia-myhotel-calendario-de-precos/imagem-2.webp)
+![imagem-1](/assets/guia-myhotel-calendario-de-precos/imagem-1.webp)
 
 ## 4. PREÇOS PARA
 
@@ -52,8 +50,6 @@ Escolha o número de PAX (Adultos e Crianças) de acordo com a ocupação do tip
 
 Selecione o mês que deseja consultar informações ou utilize as setas de ‘avançar ou retornar’:
 
-![imagem-3](/assets/guia-myhotel-calendario-de-precos/imagem-3.webp)
-
 ## 6. VISUALIZAÇÃO 1 MÊS
 
 Permite consultar as informações do mês selecionado:
@@ -62,8 +58,6 @@ Permite consultar as informações do mês selecionado:
 
 Irá exibir um calendário que possibilita visualizar até 6 meses.
 
-![imagem-4](/assets/guia-myhotel-calendario-de-precos/imagem-4.webp)
-
 ## 8. INFORMAÇÕES
 
 Ao estacionar o mouse neste botão, será exibida uma legenda com as cores relacionadas à disponibilidade do hotel –  
@@ -71,7 +65,7 @@ Ao estacionar o mouse neste botão, será exibida uma legenda com as cores relac
 
 ## Detalhes e Edição
 
-![imagem-5](/assets/guia-myhotel-calendario-de-precos/imagem-5.webp)
+![imagem-2](/assets/guia-myhotel-calendario-de-precos/imagem-2.webp)
 
 Ao clicar em um dia, abrirá uma ‘janela de informações’, mostrando preços, disponibilidade e restrições que estão cadastradas para o tipo de quarto do tarifário:
 
@@ -85,25 +79,23 @@ E ao clicar no botão **‘Editar’** (sinalizado com ícone de lápis) no cant
 
 Será possível **Editar Detalhes da Tarifa / Tipo de Quarto** para seguir com as atualizações de:
 
-- **‘Preços do Quarto’**: aqui também será possível fazer atualizações de preços por ‘Preço Fixo’ ou ‘Variação de Preço’.
+- **‘Preços do Quarto’**: aqui também será possível fazer atualizações de preços por ‘Preço Fixo’ ou ‘Variação de Preço’:
 
 Para os tarifários com o **‘Tipo de Disponibilidade: Tarifário ou Tarifário com impacto no inventário’**, além de atualizar o preço, também será possível **atualizar o ‘allotment’**:
 
-![imagem-6](/assets/guia-myhotel-calendario-de-precos/imagem-6.webp)
+![imagem-3](/assets/guia-myhotel-calendario-de-precos/imagem-3.webp)
 
 - **‘Restrições do Tarifário’**
 - **‘Fechar/Abrir Vendas’**
 
-![imagem-7](/assets/guia-myhotel-calendario-de-precos/imagem-7.webp)
+## Informação da Tarifa
 
-- **‘Informação da Tarifa’**: informando os extras, as taxas, as ofertas e os canais que foram atribuídos ao tarifário.
+- Informando os extras, as taxas, as ofertas e os canais que foram atribuídos ao tarifário.
 
 Após realizar a atualização das informações, clique em **Salvar**.
 
 - **Fechar este(s) dia(s):** aplicar fecho de vendas para o dia ou período selecionado.
 - **Abrir este(s) dia(s):** aplicar abertura de vendas para o dia ou período selecionado.
-
-![imagem-8](/assets/guia-myhotel-calendario-de-precos/imagem-8.webp)
 
 ## IMPORTANTE SABER
 
@@ -117,8 +109,4 @@ E PARA **‘EDITAR’**, **‘FECHAR ESTE(S) DIA(S)’** E **‘ABRIR ESTE(S) DI
 
 Para mais informações, contate: o nosso atendimento online CHAT – ou através do e-mail: [servicedesk@omnibees.com](mailto:servicedesk@omnibees.com)
 
-![imagem-9](/assets/guia-myhotel-calendario-de-precos/imagem-9.webp)
-
 ## Boas Vendas!!
-
-![imagem-10](/assets/guia-myhotel-calendario-de-precos/imagem-10.webp)
