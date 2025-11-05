@@ -54,11 +54,12 @@ Será possível ordenar a lista de tarifas e pacotes por:
 Escolha o número de PAX (Adultos e Crianças) de acordo com a ocupação do tipo de quarto e veja o preço cadastrado:
 
 ![imagem-6](/assets/guia-myhotel-calendario-de-precos/imagem-6.webp)
-![imagem-7](/assets/guia-myhotel-calendario-de-precos/imagem-7.webp)
 
 ## 5. MÊS
 
 Selecione o mês que deseja consultar informações ou utilize as setas de ‘avançar ou retornar’:
+
+![imagem-7](/assets/guia-myhotel-calendario-de-precos/imagem-7.webp)
 
 ## 6. VISUALIZAÇÃO 1 MÊS
 
@@ -128,13 +129,14 @@ E PARA **‘EDITAR’**, **‘FECHAR ESTE(S) DIA(S)’** E **‘ABRIR ESTE(S) DI
 
 ![imagem-20](/assets/guia-myhotel-calendario-de-precos/imagem-20.webp)
 ![imagem-21](/assets/guia-myhotel-calendario-de-precos/imagem-21.webp)
-![imagem-22](/assets/guia-myhotel-calendario-de-precos/imagem-22.webp)
 
 Para mais informações, contate: o nosso atendimento online CHAT – ou através do e-mail: [servicedesk@omnibees.com](mailto:servicedesk@omnibees.com)
 
-![imagem-23](/assets/guia-myhotel-calendario-de-precos/imagem-23.webp)
-![imagem-24](/assets/guia-myhotel-calendario-de-precos/imagem-24.webp)
-
 ## Boas Vendas!!
+
+![imagem-22](/assets/guia-myhotel-calendario-de-precos/imagem-22.webp)
+![imagem-23](/assets/guia-myhotel-calendario-de-precos/imagem-23.webp)
+
+![imagem-24](/assets/guia-myhotel-calendario-de-precos/imagem-24.webp)
 
 ![imagem-25](/assets/guia-myhotel-calendario-de-precos/imagem-25.webp)
