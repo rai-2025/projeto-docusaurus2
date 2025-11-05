@@ -9,7 +9,7 @@ slug: /guia-myhotel-calendario-de-precos
 
 ## GUIA RÁPIDO
 
-## Neste guia, você vai aprender as funcionalidades da aba de calendário de preços.
+Neste guia, você vai aprender as funcionalidades da aba de calendário de preços.
 
 ### Como chegar?
 
@@ -18,7 +18,7 @@ O caminho para acessar o calendário de preços do hotel é:
 
 Em **‘Calendário de Preços’** será possível consultar os preços, restrições e fechos/aberturas de vendas que foram aplicados para os canais de vendas atribuídos aos tarifários criados pelo hotel. Para visualizar essas informações, é necessário selecionar um ‘tipo de quarto’ do tarifário cujas informações você deseja consultar.
 
-## Consultando o Calendário de Preços
+### Consultando o Calendário de Preços
 
 Após selecionar o "tipo de quarto" do tarifário que deseja consultar, é importante que você conheça as opções de **'pesquisa e os filtros'** disponíveis, que podem ajudar a encontrar as informações desejadas de maneira mais rápida. Veja:
 
@@ -44,15 +44,15 @@ Será possível ordenar a lista de tarifas e pacotes por:
 
 ## 4. PREÇOS PARA
 
-Escolha o número de PAX (Adultos e Crianças) de acordo com a ocupação do tipo de quarto e veja o preço cadastrado:
+Escolha o número de PAX (Adultos e Crianças) de acordo com a ocupação do tipo de quarto e veja o preço cadastrado.
 
 ## 5. MÊS
 
-Selecione o mês que deseja consultar informações ou utilize as setas de ‘avançar ou retornar’:
+Selecione o mês que deseja consultar informações ou utilize as setas de ‘avançar ou retornar’.
 
 ## 6. VISUALIZAÇÃO 1 MÊS
 
-Permite consultar as informações do mês selecionado:
+Permite consultar as informações do mês selecionado.
 
 ## 7. VISUALIZAÇÃO 6 MESES
 
@@ -61,7 +61,7 @@ Irá exibir um calendário que possibilita visualizar até 6 meses.
 ## 8. INFORMAÇÕES
 
 Ao estacionar o mouse neste botão, será exibida uma legenda com as cores relacionadas à disponibilidade do hotel –  
-*‘Aberto para Vendas’, ‘Fechado para Vendas’, ‘Fechado Parcialmente para Vendas’ e ‘Allotment Indisponível’* – e que aparecerão no calendário de preços:
+*‘Aberto para Vendas’, ‘Fechado para Vendas’, ‘Fechado Parcialmente para Vendas’ e ‘Allotment Indisponível’* – e que aparecerão no calendário de preços.
 
 ## Detalhes e Edição
 
@@ -79,7 +79,7 @@ E ao clicar no botão **‘Editar’** (sinalizado com ícone de lápis) no cant
 
 Será possível **Editar Detalhes da Tarifa / Tipo de Quarto** para seguir com as atualizações de:
 
-- **‘Preços do Quarto’**: aqui também será possível fazer atualizações de preços por ‘Preço Fixo’ ou ‘Variação de Preço’:
+- **‘Preços do Quarto’**: aqui também será possível fazer atualizações de preços por ‘Preço Fixo’ ou ‘Variação de Preço’.
 
 Para os tarifários com o **‘Tipo de Disponibilidade: Tarifário ou Tarifário com impacto no inventário’**, além de atualizar o preço, também será possível **atualizar o ‘allotment’**:
 
@@ -90,7 +90,7 @@ Para os tarifários com o **‘Tipo de Disponibilidade: Tarifário ou Tarifário
 
 ## Informação da Tarifa
 
-- Informando os extras, as taxas, as ofertas e os canais que foram atribuídos ao tarifário.
+Informando os extras, as taxas, as ofertas e os canais que foram atribuídos ao tarifário.
 
 Após realizar a atualização das informações, clique em **Salvar**.
 
@@ -101,11 +101,11 @@ Após realizar a atualização das informações, clique em **Salvar**.
 
 AO ESTACIONAR O MOUSE SOBRE UM DIA DO CALENDÁRIO, APARECERÁ TAMBÉM O BOTÃO ‘EDITAR’ (SINALIZADO POR UM ÍCONE EM FORMATO DE LÁPIS) NO CANTO SUPERIOR DIREITO DO QUADRADO DO DIA. E SERÁ POSSÍVEL CLICAR EM ‘EDITAR’, ‘FECHAR ESTE(S) DIA(S)’ E ‘ABRIR ESTE(S) DIA(S)’.
 
-OU SERÁ POSSÍVEL CLICAR COM O BOTÃO DIREITO DO MOUSE SOBRE UM DIA, PARA TER ACESSO AO BOTÃO ‘EDITAR’:
+OU SERÁ POSSÍVEL CLICAR COM O BOTÃO DIREITO DO MOUSE SOBRE UM DIA, PARA TER ACESSO AO BOTÃO ‘EDITAR’.
 
 ## Seleção de Período
 
-E PARA **‘EDITAR’**, **‘FECHAR ESTE(S) DIA(S)’** E **‘ABRIR ESTE(S) DIA(S)’** PARA UM PERÍODO DIRETAMENTE NO CALENDÁRIO, CLIQUE SOBRE O DIA INICIAL E ARRASTE PARA OS DEMAIS DIAS DO PERÍODO. EM SEGUIDA, CLIQUE NO BOTÃO **‘EDITAR’** (SINALIZADO PELO ÍCONE DE ‘LÁPIS’), DO ÚLTIMO DIA DO PERÍODO SELECIONADO:
+E PARA **‘EDITAR’**, **‘FECHAR ESTE(S) DIA(S)’** E **‘ABRIR ESTE(S) DIA(S)’** PARA UM PERÍODO DIRETAMENTE NO CALENDÁRIO, CLIQUE SOBRE O DIA INICIAL E ARRASTE PARA OS DEMAIS DIAS DO PERÍODO. EM SEGUIDA, CLIQUE NO BOTÃO **‘EDITAR’** (SINALIZADO PELO ÍCONE DE ‘LÁPIS’), DO ÚLTIMO DIA DO PERÍODO SELECIONADO.
 
 Para mais informações, contate: o nosso atendimento online CHAT – ou através do e-mail: [servicedesk@omnibees.com](mailto:servicedesk@omnibees.com)
 
