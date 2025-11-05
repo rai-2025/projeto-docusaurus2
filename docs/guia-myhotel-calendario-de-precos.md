@@ -124,10 +124,10 @@ OU SERÁ POSSÍVEL CLICAR COM O BOTÃO DIREITO DO MOUSE SOBRE UM DIA, PARA TER A
 
 E PARA **‘EDITAR’**, **‘FECHAR ESTE(S) DIA(S)’** E **‘ABRIR ESTE(S) DIA(S)’** PARA UM PERÍODO DIRETAMENTE NO CALENDÁRIO, CLIQUE SOBRE O DIA INICIAL E ARRASTE PARA OS DEMAIS DIAS DO PERÍODO. EM SEGUIDA, CLIQUE NO BOTÃO **‘EDITAR’** (SINALIZADO PELO ÍCONE DE ‘LÁPIS’), DO ÚLTIMO DIA DO PERÍODO SELECIONADO:
 
+Para mais informações, contate: o nosso atendimento online CHAT – ou através do e-mail: [servicedesk@omnibees.com](mailto:servicedesk@omnibees.com)
+
 ![imagem-20](/assets/guia-myhotel-calendario-de-precos/imagem-20.webp)  
 ![imagem-21](/assets/guia-myhotel-calendario-de-precos/imagem-21.webp)
-
-Para mais informações, contate: o nosso atendimento online CHAT – ou através do e-mail: [servicedesk@omnibees.com](mailto:servicedesk@omnibees.com)
 
 ## Boas Vendas!!
 
@@ -135,5 +135,3 @@ Para mais informações, contate: o nosso atendimento online CHAT – ou atravé
 ![imagem-23](/assets/guia-myhotel-calendario-de-precos/imagem-23.webp)
 
 ![imagem-24](/assets/guia-myhotel-calendario-de-precos/imagem-24.webp)
-
-![imagem-25](/assets/guia-myhotel-calendario-de-precos/imagem-25.webp)
